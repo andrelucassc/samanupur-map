@@ -23,11 +23,11 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "world"
+        "samanupur - overworld"
     ],
     "map": {
         "debug": true,
-        "cacheTag": "1592967398",
+        "cacheTag": "1595106004",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -41,15 +41,15 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Overviewer Render (lighting)",
-            "zoomLevels": 8,
+            "name": "Samanupur Daytime",
+            "zoomLevels": 12,
             "defaultZoom": 1,
-            "maxZoom": 8,
-            "path": "world-lighting",
+            "maxZoom": 12,
+            "path": "survivalday",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "world",
-            "last_rendertime": 1592956556,
+            "world": "samanupur - overworld",
+            "last_rendertime": 1595104562,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
